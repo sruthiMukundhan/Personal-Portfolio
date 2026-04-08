@@ -17,7 +17,7 @@ const projects = [
     title: "Personal Portflio",
     description:
       "A curated collection of your best professional work, skills, and achievements used to showcase your expertise to clients.",
-    github: "https://github.com/yourusername/gradverify",
+    github: "https://github.com/sruthiMukundhan/Personal-Portfolio.git",
   },
   {
     title: "Modern GUI",
